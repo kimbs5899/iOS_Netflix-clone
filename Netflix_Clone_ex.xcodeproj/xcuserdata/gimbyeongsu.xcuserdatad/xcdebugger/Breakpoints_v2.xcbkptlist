@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6DAF299F-6AA0-44A5-A400-F0845A0EC430"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A62B72A6-B07D-4076-94C2-0C706EA5AEF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix_Clone_ex/Home VC/TableHeader/HomeTableViewHeaderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "HomeTableViewHeaderView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A62B72A6-B07D-4076-94C2-0C706EA5AEF5 - 121de858e2baaf4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone_ex.HomeTableViewHeaderView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Netflix_Clone_ex.HomeTableViewHeaderView&gt;"
+                  moduleName = "Netflix_Clone_ex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/SwiftProject/Netflix_Clone_ex/Netflix_Clone_ex/Home%20VC/TableHeader/HomeTableViewHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A62B72A6-B07D-4076-94C2-0C706EA5AEF5 - 3bba652d0b27da23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netflix_Clone_ex.HomeTableViewHeaderView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Netflix_Clone_ex.HomeTableViewHeaderView&gt;"
+                  moduleName = "Netflix_Clone_ex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/SwiftProject/Netflix_Clone_ex/Netflix_Clone_ex/Home%20VC/TableHeader/HomeTableViewHeaderView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
